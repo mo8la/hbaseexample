@@ -4,9 +4,9 @@ go http://hbase.apache.org/
 
 download 
 
-http://www-eu.apache.org/dist/hbase/1.2.0/hbase-1.2.0-bin.tar.gz
+http://apache.org/dist/hbase/1.2.6.1/hbase-1.2.6.1-bin.tar.gz
 
-extract hbase-1.2.0-bin.tar.gz
+extract hbase-1.2.6.1-bin.tar.gz
 
 lib jar ===> to folder lib/
 
@@ -32,5 +32,5 @@ click
 
 select
 
-lib/===>from===>extract hbase-1.2.0-bin.tar.gz
+lib/===>from===>extract hbase-1.2.6.1-bin.tar.gz
 
